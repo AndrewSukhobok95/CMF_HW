@@ -1,9 +1,0 @@
-getwd()
-q()
-data(iris)
-iris
-getwd()
-setwd("/Users/Suh/Python_etc/CMF/Cluster")
-write.csv(iris)
-help(write.csv)
-write.csv(iris, 'iris.csv')
