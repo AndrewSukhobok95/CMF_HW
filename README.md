@@ -1,9 +1,3 @@
 # CMF Hometask
 
-## PCA
-
-- Применить метод главных компонент (не исполюзуя готовую функцию)
-
-- Построить график зависимости собственных чисел от номера собственного числа (сортированного списка)
-
-- Построить график кумулятивной суммы собственных чисел
+Here are represented several hometasks and solutions from Mathematical Center of Finance (Moscow State University)
