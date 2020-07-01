@@ -1,3 +1,13 @@
-# CMF Hometask
+## Home Assignments from CMF courses
 
-Here are represented several hometasks and solutions from Mathematical Center of Finance (Moscow State University)
+Program "Data Analysis" (2016) under Center of Mathematical Finance (Moscow State University)
+
+> Simple assignments to try out ML techniques
+
+Topics:
+- SVM
+- Decision Tree
+- Random Forest
+- PCA
+- K-means
+- Hierarchal Clustering
