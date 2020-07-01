@@ -2,12 +2,12 @@
 
 Program "Data Analysis" under Center of Mathematical Finance (Moscow State University)
 
-Letures:
+**Lectures:**
 - Topics from Econometrics and Financial Economentrics
 - Topics from ML
 - Additional Topics (DL, Text Analysis, etc)
 
-Home Assignments:
+**Home Assignments:**
 
 > Simple assignments to try out ML techniques
 
